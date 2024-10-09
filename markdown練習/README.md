@@ -43,9 +43,9 @@
 
 # ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-## ![Black cat][Black:https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg]
+## ![Black cat](Black:https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
 
-## ![Orange cat][Orange:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png]
+## ![Orange cat](Orange:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
 
 
 # 第5章
@@ -81,14 +81,14 @@
 ## *  Dahlia_ (_Coreopsideae Dahlia_)
 
 
-## *  Calculus
-##   *  A professor
-##   *  Has no hair
-##   *  Often wears green
-## *  Castafiore
-##   *  An opera singer
-##   *  Has white hair
-##     *  Is possibly mentally unwell
+## * Calculus
+##  A professor
+##  Has no hair
+##  Often wears green
+## * Castafiore
+##  An opera singer
+##  Has white hair
+##  Is possibly mentally unwell
 ## 1. Cut the cheese
 
 ##   *  Make sure that the cheese is cut into little triangles. 
