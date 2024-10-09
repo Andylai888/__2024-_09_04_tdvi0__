@@ -1,5 +1,5 @@
-
 # 第1章
+
 Writing in Markdown is _not_ that hard!
 
 I **will** complete these lessons!
@@ -65,7 +65,7 @@ Well, do I have [the website for you][another fun place]!
 
 * Chrysanthemum (_Anthemideae Chrysanthemum_)
 
-* Dahlia (_Coreopsideae Dahlia_)
+*Dahlia_ (Coreopsideae Dahlia)
 
 * Calculus
 
