@@ -77,21 +77,23 @@
 3. Rub the tomatoes in flour
 
 
- * Azalea (_Ericaceae Rhododendron_)
+* Azalea (_Ericaceae Rhododendron_)
 
- * Chrysanthemum (_Anthemideae Chrysanthemum_)
+* Chrysanthemum (_Anthemideae Chrysanthemum_)
 
- * Dahlia_ (_Coreopsideae Dahlia_)
+* Dahlia_ (_Coreopsideae Dahlia_)
 
 
 * Calculus
+
  * A professor
  * Has no hair
  * Often wears green
 * Castafiore
+
  * An opera singer
  * Has white hair
-  * Is possibly mentally unwell
+ * Is possibly mentally unwell
 1. Cut the cheese
 
  * Make sure that the cheese is cut into little triangles. 
