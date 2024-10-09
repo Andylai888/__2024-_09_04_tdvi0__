@@ -28,14 +28,17 @@
 # 第3章
 
 
-## [Search for it.](www.google.com)
+[Search for it.](www.google.com)
 
-## [You're **really**, **really** going to want to see this.](www.dailykitten.com)
+[You're **really**, **really** going to want to see this.](www.dailykitten.com)
 
-#### The Latest News from [the BBC](www.bbc.com/news)
-## Do you want to [see something fun][a fun place]:www.zombo.com?
+The Latest News from [the BBC](www.bbc.com/news)
+Do you want to [see something fun][a fun place]?
 
-## Well, do I have [the website for you][another fun place]:www.stumbleupon.com!
+Well, do I have [the website for you][another fun place]!
+
+[a fun place]:www.zombo.com
+[another fun place]:www.stumbleupon.com
 
 
 # 第4章
@@ -43,10 +46,13 @@
 
 # ![A pretty tiger](https://upload.wikimedia.org/wikipedia/commons/5/56/Tiger.50.jpg)
 
-# ![Black cat](https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg)
+![Black cat][Black]
 
-# ![Orange cat](http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png)
+![Orange cat][Orange]
 
+[Black]: https://upload.wikimedia.org/wikipedia/commons/a/a3/81_INF_DIV_SSI.jpg
+
+[Orange]:http://icons.iconarchive.com/icons/google/noto-emoji-animals-nature/256/22221-cat-icon.png
 
 # 第5章
 
@@ -116,7 +122,8 @@ To doubt they were kneeling then.
 
 
 1. Crack three eggs over a bowl.   
-   Now, you're going to want to crack the eggs in such a way that you don't make a mess.   If you _do_ make a mess, use a towel to clean it up!
+   Now, you're going to want to crack the eggs in such a way that you don't make a mess.   
+   If you _do_ make a mess, use a towel to clean it up!
 
 2. Pour a gallon of milk into the bowl.     
    Basically, take the same guidance as above: don't be messy, but if you are, clean it up!
